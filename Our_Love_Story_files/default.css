@@ -3,6 +3,7 @@ body
     background: #ffe;
     background-image: url("IMG_0610.JPG");
     background-position: center;
+    background-size: 100% auto;
     font-size: 12px;
     margin: 0;
     overflow: auto;
@@ -51,10 +52,10 @@ body
 #loveu
 {
     display: none;
+    font-size: 22px;
     margin-right: 120px;
     margin-top: 80px;
     padding: 5px;
-    size: 22px;
     text-align: right;
 }
 #loveu .signature
@@ -97,7 +98,7 @@ body
 {
     color: #666;
     margin-top: 10px;
-    t-align: center;
+    text-align: center;
     width: 100%;
 }
 #errorMsg
