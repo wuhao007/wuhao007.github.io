@@ -42,7 +42,7 @@ body
 #messages
 {
     display: none;
-    color: #FF0000; 
+    color: red; 
 }
 #elapseClock .digit
 {
@@ -57,6 +57,7 @@ body
     margin-top: 80px;
     padding: 5px;
     text-align: right;
+    color: pink
 }
 #loveu .signature
 {
@@ -72,6 +73,7 @@ body
     font-size: 12px;
     height: 400px;
     width: 440px;
+    color: blue;
 }
 #code .string
 {
